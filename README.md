@@ -1,2 +1,3 @@
 # Scream-100-Grenade
-Adds the Scream 100, a harmless distraction grenade that produces a loud 12-second scream, an intense spark shower, and a powerful camera-shaking detonation.
+Scream 100 adds a unique non-lethal sound grenade to SPT After being thrown, the grenade waits four seconds before producing a loud, rising scream for approximately 12 seconds while releasing a dense shower of sparks. It then detonates with a custom explosion sound, visual explosion, and extremely strong distance-based camera shake.
+The grenade causes no blast damage, fragmentation, blindness, concussion, or impact damage, making it useful for distractions, atmosphere, intimidation, and chaotic encounters without directly killing anyone. It uses a black-painted VOG-17-style model with a green safety pin and is available from Prapor and on the flea market.
